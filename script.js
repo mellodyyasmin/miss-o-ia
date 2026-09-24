@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Assim que saiu da escola voce se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Isso e assustador!",
                 afirmacao: "afirmacao"
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Isso e maravilhoso!",
                 afirmacao: "afirmacao"
             }           
             
